@@ -1,6 +1,6 @@
 <div align="center">
 
-# ♟️ Michaël RAMANAMPAMONJY
+# Michaël RAMANAMPAMONJY
 
 **`Java Developer · Data Engineer`**
 
@@ -122,46 +122,6 @@
 </table>
 
 ---
-
-## 🏆 Achievements
-
-<div align="center">
-
-🦈 **Pull Shark ×3** — Contributions actives & PR reviews régulières
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![M4STERPIECEE's Contributions](https://github.pumbas.net/api/contributions/M4STERPIECEE)
-
-</div>
-
----
-
-## 📫 Me contacter
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-@M4STERPIECEE-181717?style=for-the-badge&logo=github)](https://github.com/M4STERPIECEE)
-[![Email](https://img.shields.io/badge/Email-ton@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%C3%80_venir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-
-</div>
-
----
-
-<div align="center">
-  <sub>☕ Turning coffee into clean code since 20XX &nbsp;·&nbsp; Let's build the next masterpiece together.</sub>
-</div>
-
----
-
-## 📈 Activity & Dashboard
 
 <!-- activity graph -->
 <p align="center">
