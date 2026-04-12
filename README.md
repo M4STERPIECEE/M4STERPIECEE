@@ -41,10 +41,10 @@
   <img src="https://skillicons.dev/icons?i=idea&theme=light" title="IntelliJ IDEA" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode&theme=light" title="VS Code" />&nbsp;
   <img src="https://skillicons.dev/icons?i=maven&theme=light" title="Maven" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=gradle&theme=light" title="Gradle" />
- <img src="https://skillicons.dev/icons?i=gradle&theme=light" title="Gradle" />&nbsp;
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" title="Notion" />&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Excel" />
+  <img src="https://skillicons.dev/icons?i=gradle&theme=light" title="Gradle" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=fedora&theme=light" title="Fedora" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux&theme=light" title="Linux" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=groovy&theme=light" title="Groovy" />
 </div>
 
 ---
