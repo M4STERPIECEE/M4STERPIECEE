@@ -30,7 +30,7 @@
     - [**EnvHub**](https://github.com/tsirysndr/envhub) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/envhub.svg?style=social) | Manage your dotfiles and packages with ease. Define your $HOME as Code 💻 🚀 ✨
     - [**Crosup**](https://github.com/tsirysndr/crosup) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/crosup.svg?style=social) | Quickly setup your dev environment on your Chromebook/ChromeOS , MacOS or any Linux🐧 ❄️ 💻 ✨
 
-- 📫 How to reach me **michael-ramanampamonjy.me**
+- 📫 How to reach me **michaelramanampamonjyy@gmail.com**
 ---
 
 <div align="center">
