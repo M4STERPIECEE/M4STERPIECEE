@@ -123,6 +123,12 @@
 
 ---
 
+<div align="center">
+  <a href="https://gitroll.io/profile/ufOW2J2t2u4N5UC3QYF4fRRMS5yd2" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/ufOW2J2t2u4N5UC3QYF4fRRMS5yd2" alt="GitRoll Profile Badge"/>
+  </a>
+</div>
+
 <!-- activity graph -->
 <p align="center">
     <picture>
