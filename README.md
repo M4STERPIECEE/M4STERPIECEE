@@ -5,7 +5,7 @@
 **Java Developer | Data Engineer**  
 🇲🇬 Antananarivo, Madagascar
 
-![M4STERPIECEE's Contributions](https://github.pumbas.net/api/contributions/M4STERPIECEE?colour=DF9149&bgColour=161B22&dotColour=D04E4E)
+![M4STERPIECEE's Contributions](https://github.pumbas.net/api/contributions/M4STERPIECEE)
 
 ---
 
