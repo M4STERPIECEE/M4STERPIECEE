@@ -39,7 +39,8 @@
       <b>⚙️ Backend</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />&nbsp;
       <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate / JPA" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=fastapi" title="REST API" />
+      <img src="https://skillicons.dev/icons?i=fastapi" title="REST API" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
     </td>
     <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
       <b>🖥️ Frontend</b><br/><br/>
@@ -47,7 +48,8 @@
       <img src="https://skillicons.dev/icons?i=react" title="ReactJS" />&nbsp;
       <img src="https://skillicons.dev/icons?i=reactivex" title="RxJS" />&nbsp;
       <img src="https://skillicons.dev/icons?i=redux" title="NgRx" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=chakraui" title="Chakra UI" />
+      <img src="https://skillicons.dev/icons?i=chakraui" title="Chakra UI" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
     </td>
     <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
       <b>🏗️ Architecture</b><br/><br/>
@@ -72,15 +74,15 @@
       <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />&nbsp;
       <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;
       <img src="https://skillicons.dev/icons?i=kafka" title="Data Engineering / Kafka" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />&nbsp;
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-round&logo=oracle&logoColor=white" title="Oracle" />
+      <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
     </td>
     <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
       <b>🔧 Tools</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
       <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" /><br/><br/>
       <img src="https://skillicons.dev/icons?i=maven" title="Maven" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=gradle" title="Gradle" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=gradle" title="Gradle" />&nbsp;
       <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-round&logo=swagger&logoColor=black" title="Swagger" />
     </td>
   </tr>
