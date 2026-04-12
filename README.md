@@ -2,18 +2,13 @@
  
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
  
-# ♟️ Michaël RAMANAMPAMONJY
+# Michaël RAMANAMPAMONJY
  
 **`Java Developer · Data Engineer`**
  
 🇲🇬 Antananarivo, Madagascar
- 
-<img src="https://komarev.com/ghpvc/?username=M4STERPIECEE&label=Profile%20views&color=ED8B00&style=flat" alt="M4STERPIECEE" />
- 
----
- 
-*Passionné par le code propre, l'architecture hexagonale et les nouvelles features de Java —*
-*de Java 8 jusqu'à Valhalla, Loom & Leyden. Je transforme des idées en applications scalables,*
+   
+*Passionné par le code propre, l'architecture hexagonale et les nouvelles features de Java. Je transforme des idées en applications scalables,*
 *performantes et belles à utiliser.*
  
 > **"Code is my canvas. Every line is a brushstroke toward the masterpiece."**
