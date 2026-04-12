@@ -30,6 +30,8 @@
 </div>
 
 ---
+## 🛠️ Stack & Skills
+
 <div align="center">
 <table>
   <tr>
@@ -42,8 +44,11 @@
     <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
       <b>🖥️ Frontend</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=angular" title="Angular" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=react" title="ReactJS" />&nbsp;
       <img src="https://skillicons.dev/icons?i=reactivex" title="RxJS" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=redux" title="NgRx" />
+      <img src="https://skillicons.dev/icons?i=redux" title="NgRx" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=chakraui" title="Chakra UI" />&nbsp;
+      <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-round&logo=shadcnui&logoColor=white" title="Shadcn UI" />
     </td>
     <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
       <b>🏗️ Architecture</b><br/><br/>
@@ -55,11 +60,13 @@
   </tr>
   <tr>
     <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
-      <b>🚀 DevOps & Infra</b><br/><br/>
+      <b>🚀 DevOps & Cloud</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />&nbsp;
       <img src="https://skillicons.dev/icons?i=docker" title="Docker" />&nbsp;
       <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=gitlab" title="CI/CD" />
+      <img src="https://skillicons.dev/icons?i=gitlab" title="CI/CD" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=azure" title="Azure" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=gcp" title="GCP" />
     </td>
     <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
       <b>🗄️ Data & Databases</b><br/><br/>
@@ -72,8 +79,8 @@
       <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
       <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" />&nbsp;
       <img src="https://skillicons.dev/icons?i=maven" title="Maven" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=gradle" title="Gradle" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
+      <img src="https://skillicons.dev/icons?i=gradle" title="Gradle" /><br/><br/>
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-round&logo=swagger&logoColor=black" title="Swagger" />
     </td>
   </tr>
 </table>
