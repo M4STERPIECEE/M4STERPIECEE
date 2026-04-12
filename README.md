@@ -33,32 +33,32 @@
 ## 🛠️ Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" title="Java" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate / JPA" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" title="REST API" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=angular" title="Angular" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" title="ReactJS" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=redux" title="NgRx" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=gitlab" title="CI/CD" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=azure" title="Azure" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=gcp" title="GCP" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=kafka" title="Kafka" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=maven" title="Maven" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=gradle" title="Gradle" />
+  <img src="https://skillicons.dev/icons?i=java&theme=light" title="Java" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=light" title="Kotlin" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring&theme=light" title="Spring Boot" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=hibernate&theme=light" title="Hibernate / JPA" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=light" title="REST API" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" title="Node.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=angular&theme=light" title="Angular" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react&theme=light" title="ReactJS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux&theme=light" title="NgRx" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts&theme=light" title="TypeScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js&theme=light" title="JavaScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=light" title="Kubernetes" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker&theme=light" title="Docker" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=light" title="GitHub Actions" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=gitlab&theme=light" title="CI/CD" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=azure&theme=light" title="Azure" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp&theme=light" title="GCP" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres&theme=light" title="PostgreSQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" title="MySQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=kafka&theme=light" title="Kafka" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase&theme=light" title="Supabase" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git&theme=light" title="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=idea&theme=light" title="IntelliJ IDEA" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" title="VS Code" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=maven&theme=light" title="Maven" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=gradle&theme=light" title="Gradle" />
 </div>
 
 ---
