@@ -60,12 +60,6 @@
   <img src="https://skillicons.dev/icons?i=linux&theme=light" title="Linux" />&nbsp;
   <img src="https://skillicons.dev/icons?i=notion&theme=light" title="Notion" />
   <img src="https://skillicons.dev/icons?i=pnpm&theme=light" title="PNPM" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" title="RabbitMQ" />
-  <img src="https://skillicons.dev/icons?i=unreal&theme=light" title="Unreal" />
-  <img src="https://skillicons.dev/icons?i=windows&theme=light" title="Windows" />
-  <img src="https://skillicons.dev/icons?i=vim&theme=light" title="Vim" />
-
-
 </div>
 
 ---
