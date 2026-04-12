@@ -33,6 +33,8 @@
 ## 🛠️ Stack & Skills
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />&nbsp;
   <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />&nbsp;
   <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate / JPA" />&nbsp;
   <img src="https://skillicons.dev/icons?i=fastapi" title="REST API" />&nbsp;
