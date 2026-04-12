@@ -70,9 +70,6 @@
 
 ---
 <!-- activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M4STERPIECEE&bg_color=1a1b27&color=00d9ff&line=0d74c1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
 
 <p align="center">
     <picture>
