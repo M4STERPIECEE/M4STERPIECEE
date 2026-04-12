@@ -14,21 +14,15 @@
 </div>
 
 
-- 🌱 I’m currently learning :
-    - [**Music Player**](https://github.com/tsirysndr/music-player)  ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/music-player.svg?style=social) | An extensible music server written in Rust 🚀🎵✨
-    - [**Rocksky**](https://tangled.org/@rocksky.app/rocksky) A decentralized music tracking and discovery platform built on [AT Protocol](https://atproto.com/)
-    - [**Tunein CLI**](https://github.com/tsirysndr/tunein-cli) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/tunein-cli.svg?style=social) | Browse and listen to thousands of radio stations across the globe right from your terminal 🌎 📻 🎵✨
-    - [**vmlinux-builder**](https://github.com/tsirysndr/vmlinux-builder) Simple script and config to build custom Linux kernels for Firecracker MicroVMs
-    - [**Oh My Droid**](https://github.com/tsirysndr/oh-my-droid) Opinionated Android 15+ Linux Terminal Setup
-    - [**Pocketenv**](https://github.com/pocketenv-io/pocketenv) | open, interoperable sandbox platform for agents and humans 📦 ✨
-    - [**Rockbox Zig**](https://github.com/tsirysndr/rockbox-zig) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/rockbox-zig.svg?style=social)  | This project brings modern enhancements to the classic [Rockbox](https://www.rockbox.org) firmware, using Zig and Rust for improved performance and maintainability ⚡ 🦀
-    - [**Fluent CI**](https://github.com/fluentci-io) ![GitHub stars](https://img.shields.io/github/stars/fluentci-io/fluentci.svg?style=social) | Set up and run your CI locally or in any CI Provider in a consistent way 🛠️ 💻 🚀✨
-    - [**Fluent CI Engine**](https://github.com/fluentci-io/fluentci-engine) ![GitHub stars](https://img.shields.io/github/stars/fluentci-io/fluentci-engine.svg?style=social) | A Programmable CI/CD Engine built on top of Wasm and Nix ❄️ ✨
-    - [**Fluent CI Studio**](https://github.com/fluentci-io/fluentci-studio) | 🎙️ The easiest way to explore and manipulate your CI Pipelines in all of your FluentCI projects.
-    - [**vmx**](https://github.com/tsirysndr/vmx) | A Docker-like CLI and HTTP API for managing headless QEMU VMs
-    - [**freebsd-up**](https://github.com/tsirysndr/freebsd-up) | A simple, zero-configuration script to quickly boot FreeBSD ISO images using QEMU
-    - [**EnvHub**](https://github.com/tsirysndr/envhub) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/envhub.svg?style=social) | Manage your dotfiles and packages with ease. Define your $HOME as Code 💻 🚀 ✨
-    - [**Crosup**](https://github.com/tsirysndr/crosup) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/crosup.svg?style=social) | Quickly setup your dev environment on your Chromebook/ChromeOS , MacOS or any Linux🐧 ❄️ 💻 ✨
+- 🌱 I'm currently learning :
+    - **Hexagonal Architecture** | Deepening clean architecture patterns with Java & Spring Boot
+    - **Kafka Streams** | Real-time data processing and event-driven microservices
+    - **Kubernetes Advanced** | Operators, Helm charts, and production-grade orchestration
+    - **GraalVM Native Image** | Compiling Spring Boot apps to native executables for instant startup
+    - **Apache Flink** | Stateful stream processing for large-scale data pipelines
+    - **Kotlin Coroutines** | Asynchronous programming with Kotlin in a Spring context
+    - **dbt (Data Build Tool)** | Transforming data in the warehouse with version-controlled SQL
+    - **Apache Iceberg** | Open table format for huge analytic datasets on GCP / Azure
 
 - 📫 How to reach me **michaelramanampamonjyy@gmail.com**
 ---
