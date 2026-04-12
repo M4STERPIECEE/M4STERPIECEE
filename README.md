@@ -44,8 +44,6 @@
     <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
       <img src="https://skillicons.dev/icons?i=angular" title="Angular" />&nbsp;
       <img src="https://skillicons.dev/icons?i=react" title="ReactJS" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=reactivex" title="RxJS" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=redux" title="NgRx" /><br/><br/>
       <img src="https://skillicons.dev/icons?i=chakraui" title="Chakra UI" />&nbsp;
       <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
     </td>
