@@ -2,7 +2,7 @@
 
 <div align="center">
  
-# Michaël RAMANAMPAMONJY 
+# Michaël 
  
 **`Java Developer · Data Engineer`**
  
