@@ -53,6 +53,10 @@
     </picture>
 </p>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=M4STERPIECEE&theme=github_dark&no-frame=false&no-bg=true&margin-w=4" />
+</div>
+
 <!-- ossinsight widgets — remplace 100802430 par ton vrai ID numérique -->
 <div align="center" style="display: flex; flex-direction: row; gap: 8px; justify-content: center;">
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=100802430" target="_blank">
