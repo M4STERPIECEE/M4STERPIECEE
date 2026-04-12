@@ -42,9 +42,12 @@
   <img src="https://skillicons.dev/icons?i=vscode&theme=light" title="VS Code" />&nbsp;
   <img src="https://skillicons.dev/icons?i=maven&theme=light" title="Maven" />&nbsp;
   <img src="https://skillicons.dev/icons?i=gradle&theme=light" title="Gradle" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=fedora&theme=light" title="Fedora" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=light" title="Github" />&nbsp;
   <img src="https://skillicons.dev/icons?i=linux&theme=light" title="Linux" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=groovy&theme=light" title="Groovy" />
+  <img src="https://skillicons.dev/icons?i=notion&theme=light" title="Notion" />
+  <img src="https://skillicons.dev/icons?i=pnpm&theme=light" title="PNPM" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" title="RabbitMQ" />
+
 </div>
 
 ---
