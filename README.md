@@ -42,6 +42,9 @@
   <img src="https://skillicons.dev/icons?i=vscode&theme=light" title="VS Code" />&nbsp;
   <img src="https://skillicons.dev/icons?i=maven&theme=light" title="Maven" />&nbsp;
   <img src="https://skillicons.dev/icons?i=gradle&theme=light" title="Gradle" />
+ <img src="https://skillicons.dev/icons?i=gradle&theme=light" title="Gradle" />&nbsp;
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" title="Notion" />&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Excel" />
 </div>
 
 ---
@@ -52,10 +55,6 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=M4STERPIECEE&theme=react-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </picture>
 </p>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M4STERPIECEE&theme=github_dark&no-frame=false&no-bg=true&margin-w=4" />
-</div>
 
 <!-- ossinsight widgets — remplace 100802430 par ton vrai ID numérique -->
 <div align="center" style="display: flex; flex-direction: row; gap: 8px; justify-content: center;">
