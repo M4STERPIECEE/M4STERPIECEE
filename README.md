@@ -2,15 +2,13 @@
 
 <div align="center">
  
-# Michaël RAMANAMPAMONJY
+# Michaël RAMANAMPAMONJY 
  
 **`Java Developer · Data Engineer`**
  
-🇲🇬 Antananarivo, Madagascar
+Antananarivo, Madagascar 🇲🇬 
    
-*Passionné par le code propre, l'architecture hexagonale et les nouvelles features de Java. Je transforme des idées en applications scalables,*
-*performantes et belles à utiliser.*
- 
+*I focus on building robust, maintainable systems with a pragmatic approach to clean code and modern Java. My goal is to deliver software that performs well at scale and remains a pleasure to work with.* 
 > **"Code is my canvas. Every line is a brushstroke toward the masterpiece."**
  
 </div>
