@@ -30,25 +30,23 @@
 </div>
 
 ---
-
-## 🛠️ Stack & Skills
-
 <div align="center">
 <table>
   <tr>
     <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-round&logo=springboot&logoColor=white" />&nbsp;
-      <img src="https://img.shields.io/badge/Spring_Data-6DB33F?style=flat-round&logo=spring&logoColor=white" />&nbsp;
-      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-round&logo=hibernate&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/JPA-ED8B00?style=flat-round&logo=openjdk&logoColor=white" />&nbsp;
-      <img src="https://img.shields.io/badge/REST_API-009688?style=flat-round&logo=fastapi&logoColor=white" />
+      <b>⚙️ Backend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate / JPA" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=fastapi" title="REST API" />
     </td>
     <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-round&logo=angular&logoColor=white" />&nbsp;
-      <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-round&logo=reactivex&logoColor=white" />&nbsp;
-      <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=flat-round&logo=redux&logoColor=white" />
+      <b>🖥️ Frontend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=angular" title="Angular" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=reactivex" title="RxJS" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=redux" title="NgRx" />
     </td>
     <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
+      <b>🏗️ Architecture</b><br/><br/>
       <img src="https://img.shields.io/badge/Hexagonal_Arch.-4B0082?style=flat-round" />&nbsp;
       <img src="https://img.shields.io/badge/Domain--Driven_Design-6A0DAD?style=flat-round" /><br/>
       <img src="https://img.shields.io/badge/Clean_Architecture-5D3FD3?style=flat-round" />&nbsp;
@@ -57,23 +55,25 @@
   </tr>
   <tr>
     <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-round&logo=kubernetes&logoColor=white" />&nbsp;
-      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-round&logo=argo&logoColor=white" />&nbsp;
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-round&logo=docker&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-round&logo=githubactions&logoColor=white" />&nbsp;
-      <img src="https://img.shields.io/badge/CI%2FCD-FC6D26?style=flat-round&logo=gitlab&logoColor=white" />
+      <b>🚀 DevOps & Infra</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=docker" title="Docker" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=gitlab" title="CI/CD" />
     </td>
     <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-round&logo=postgresql&logoColor=white" />&nbsp;
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-round&logo=mysql&logoColor=white" />&nbsp;
-      <img src="https://img.shields.io/badge/Data_Engineering-FF6F00?style=flat-round&logo=apachekafka&logoColor=white" />
+      <b>🗄️ Data & Databases</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=kafka" title="Data Engineering / Kafka" />
     </td>
     <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-round&logo=git&logoColor=white" />&nbsp;
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-round&logo=intellijidea&logoColor=white" />&nbsp;
-      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-round&logo=apachemaven&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-round&logo=gradle&logoColor=white" />&nbsp;
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-round&logo=postman&logoColor=white" />
+      <b>🔧 Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=maven" title="Maven" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=gradle" title="Gradle" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
     </td>
   </tr>
 </table>
