@@ -76,8 +76,8 @@
 
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=M4STERPIECEE&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=M4STERPIECEE&theme=react-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=M4STERPIECEE&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo&border_radius=16&bg_color=0d1117&border_color=30363d">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=M4STERPIECEE&theme=react-light&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo&border_radius=16&bg_color=f6f8fa&border_color=d0d7de" width="100%" alt="activity graph">
     </picture>
 </p>
 
