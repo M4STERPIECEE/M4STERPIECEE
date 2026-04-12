@@ -33,52 +33,32 @@
 ## 🛠️ Stack & Skills
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
-      <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate / JPA" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=fastapi" title="REST API" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-    </td>
-    <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
-      <img src="https://skillicons.dev/icons?i=angular" title="Angular" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=react" title="ReactJS" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=redux" title="NgRx" />
-      <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
-    </td>
-    <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
-      <img src="https://img.shields.io/badge/Hexagonal_Arch.-4B0082?style=flat-round" />&nbsp;
-      <img src="https://img.shields.io/badge/Domain--Driven_Design-6A0DAD?style=flat-round" /><br/>
-      <img src="https://img.shields.io/badge/Clean_Architecture-5D3FD3?style=flat-round" />&nbsp;
-      <img src="https://img.shields.io/badge/Microservices-0D7377?style=flat-round" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
-      <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=docker" title="Docker" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=gitlab" title="CI/CD" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=azure" title="Azure" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=gcp" title="GCP" />
-    </td>
-    <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
-      <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=kafka" title="Data Engineering / Kafka" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
-    </td>
-    <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
-      <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=maven" title="Maven" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=gradle" title="Gradle" />&nbsp;
-    </td>
-  </tr>
-</table>
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate / JPA" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" title="REST API" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="ReactJS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" title="NgRx" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=gitlab" title="CI/CD" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=azure" title="Azure" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" title="GCP" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=kafka" title="Kafka" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=maven" title="Maven" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=gradle" title="Gradle" />
 </div>
+
 ---
 <!-- activity graph -->
 <p align="center">
