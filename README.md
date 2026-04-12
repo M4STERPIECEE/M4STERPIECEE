@@ -1,3 +1,5 @@
+[![Master Head](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://darshankrishna-dk.io)
+
 <div align="center">
  
 # Michaël RAMANAMPAMONJY
@@ -68,6 +70,10 @@
 
 ---
 <!-- activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M4STERPIECEE&bg_color=1a1b27&color=00d9ff&line=0d74c1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
+
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=M4STERPIECEE&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
