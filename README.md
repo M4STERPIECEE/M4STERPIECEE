@@ -33,67 +33,57 @@
 
 ## 🛠️ Stack & Skills
 
+<div align="center">
 <table>
   <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">⚙️ Backend</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/JPA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-      </div>
+    <td valign="top" align="center" width="33%">
+      <h3>⚙️ Backend</h3>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-round&logo=springboot&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/Spring_Data-6DB33F?style=flat-round&logo=spring&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-round&logo=hibernate&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/JPA-ED8B00?style=flat-round&logo=openjdk&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/REST_API-009688?style=flat-round&logo=fastapi&logoColor=white" />
     </td>
-    <td valign="top" width="33%">
-      <h3 align="center">🖥️ Frontend</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=redux&logoColor=white" />
-      </div>
+    <td valign="top" align="center" width="33%">
+      <h3>🖥️ Frontend</h3>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-round&logo=angular&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-round&logo=reactivex&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=flat-round&logo=redux&logoColor=white" />
     </td>
-    <td valign="top" width="33%">
-      <h3 align="center">🏗️ Architecture</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Hexagonal_Arch.-4B0082?style=for-the-badge" /><br/>
-        <img src="https://img.shields.io/badge/Domain--Driven_Design-6A0DAD?style=for-the-badge" /><br/>
-        <img src="https://img.shields.io/badge/Clean_Architecture-5D3FD3?style=for-the-badge" /><br/>
-        <img src="https://img.shields.io/badge/Microservices-0D7377?style=for-the-badge" />
-      </div>
+    <td valign="top" align="center" width="33%">
+      <h3>🏗️ Architecture</h3>
+      <img src="https://img.shields.io/badge/Hexagonal_Arch.-4B0082?style=flat-round" />&nbsp;
+      <img src="https://img.shields.io/badge/Domain--Driven_Design-6A0DAD?style=flat-round" />&nbsp;
+      <img src="https://img.shields.io/badge/Clean_Architecture-5D3FD3?style=flat-round" />&nbsp;
+      <img src="https://img.shields.io/badge/Microservices-0D7377?style=flat-round" />
     </td>
   </tr>
   <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">🚀 DevOps & Infra</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-      </div>
+    <td valign="top" align="center" width="33%">
+      <h3>🚀 DevOps & Infra</h3>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-round&logo=kubernetes&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-round&logo=argo&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-round&logo=docker&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-round&logo=githubactions&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/CI%2FCD-FC6D26?style=flat-round&logo=gitlab&logoColor=white" />
     </td>
-    <td valign="top" width="33%">
-      <h3 align="center">🗄️ Data & Databases</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Data_Engineering-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white" />
-      </div>
+    <td valign="top" align="center" width="33%">
+      <h3>🗄️ Data & Databases</h3>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-round&logo=postgresql&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-round&logo=mysql&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/Data_Engineering-FF6F00?style=flat-round&logo=apachekafka&logoColor=white" />
     </td>
-    <td valign="top" width="33%">
-      <h3 align="center">🔧 Tools</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-      </div>
+    <td valign="top" align="center" width="33%">
+      <h3>🔧 Tools</h3>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-round&logo=git&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-round&logo=intellijidea&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-round&logo=apachemaven&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-round&logo=gradle&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-round&logo=postman&logoColor=white" />
     </td>
   </tr>
 </table>
+</div>
 
 ---
 <!-- activity graph -->
