@@ -47,8 +47,7 @@
       <img src="https://skillicons.dev/icons?i=react" title="ReactJS" />&nbsp;
       <img src="https://skillicons.dev/icons?i=reactivex" title="RxJS" />&nbsp;
       <img src="https://skillicons.dev/icons?i=redux" title="NgRx" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=chakraui" title="Chakra UI" />&nbsp;
-      <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-round&logo=shadcnui&logoColor=white" title="Shadcn UI" />
+      <img src="https://skillicons.dev/icons?i=chakraui" title="Chakra UI" />
     </td>
     <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
       <b>🏗️ Architecture</b><br/><br/>
@@ -72,7 +71,9 @@
       <b>🗄️ Data & Databases</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />&nbsp;
       <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=kafka" title="Data Engineering / Kafka" />
+      <img src="https://skillicons.dev/icons?i=kafka" title="Data Engineering / Kafka" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />&nbsp;
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-round&logo=oracle&logoColor=white" title="Oracle" />
     </td>
     <td align="center" bgcolor="#161b22" style="border-radius:10px; padding:16px;">
       <b>🔧 Tools</b><br/><br/>
@@ -85,7 +86,6 @@
   </tr>
 </table>
 </div>
-
 ---
 <!-- activity graph -->
 <p align="center">
