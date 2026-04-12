@@ -1,19 +1,23 @@
 <div align="center">
-
-# Michaël RAMANAMPAMONJY
-
+ 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+ 
+# ♟️ Michaël RAMANAMPAMONJY
+ 
 **`Java Developer · Data Engineer`**
-
+ 
 🇲🇬 Antananarivo, Madagascar
-
+ 
+<img src="https://komarev.com/ghpvc/?username=M4STERPIECEE&label=Profile%20views&color=ED8B00&style=flat" alt="M4STERPIECEE" />
+ 
 ---
-
+ 
 *Passionné par le code propre, l'architecture hexagonale et les nouvelles features de Java —*
 *de Java 8 jusqu'à Valhalla, Loom & Leyden. Je transforme des idées en applications scalables,*
 *performantes et belles à utiliser.*
-
+ 
 > **"Code is my canvas. Every line is a brushstroke toward the masterpiece."**
-
+ 
 </div>
 
 ---
@@ -97,38 +101,6 @@
 </table>
 
 ---
-
-## 🧠 Engineering Principles
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🧱_Clean_Architecture-ED8B00?style=for-the-badge" /><br/><br/>
-      <sub>Hexagonal design, séparation des préoccupations, code maintenable sur le long terme</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/⚡_Java_8_→_26-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/><br/>
-      <sub>Records, sealed classes, virtual threads (Loom), Valhalla, Leyden</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/📦_Domain--Driven_Design-6A0DAD?style=for-the-badge" /><br/><br/>
-      <sub>Aggregates, bounded contexts, ubiquitous language, modélisation centrée métier</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🚀_Cloud--Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /><br/><br/>
-      <sub>Kubernetes, GitOps via ArgoCD, pipelines CI/CD robustes</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-  <a href="https://gitroll.io/profile/ufOW2J2t2u4N5UC3QYF4fRRMS5yd2" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/ufOW2J2t2u4N5UC3QYF4fRRMS5yd2" alt="GitRoll Profile Badge"/>
-  </a>
-</div>
-
 <!-- activity graph -->
 <p align="center">
     <picture>
