@@ -1,6 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
+  push:
+    branches:
+      -main
   schedule: # 03:00 heure locale ≈ ajuste selon ton fuseau (ici 18:00 UTC = 00:00 CEST)
     - cron: "0 21 * * *"
   workflow_dispatch:
@@ -27,5 +30,5 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           if git commit -m "chore: update profile 3d contrib graph"; then
-            git push
+            git push origin main
           fi
