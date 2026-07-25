@@ -82,5 +82,5 @@ Antananarivo, Madagascar 🇲🇬
     </a>
 </div>
 <a href="https://github.com/M4STERPIECEE"> 
-    <img src="./profile-night-rainbow.svg" alt="Contribution sts" width="%" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution stats" width="100%" />
 </a>
